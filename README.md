@@ -1,0 +1,2 @@
+# GCD
+囊括了dispatch_queue_t,dispatch_group_t,dispatch_semaphore_t,dispatch_source_t,dispatch_time_t,dispatch_block_t,dispatch_once_t,dispatch_data_t,dispatch_IO_t,dispatch_object_t等用法和代码示例
